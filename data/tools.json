@@ -1,0 +1,117 @@
+[
+  {
+    "id": "1",
+    "name": "v0 by Vercel",
+    "url": "https://v0.dev",
+    "category": "Design & Graphics",
+    "microSummary": "A generative UI system by Vercel that converts natural language prompts into polished React and Tailwind components.",
+    "description": "v0 uses generative AI to produce production-grade React code styled with Tailwind CSS and Radix UI primitives. It integrates seamlessly into modern frontend workflows, enabling ultra-fast prototyping and deployment of highly custom user interfaces.",
+    "features": [
+      "Natural language UI generation",
+      "Vite, Next.js, and HTML exports",
+      "Interactive block iterations",
+      "Figma-to-code conversions"
+    ],
+    "solvedProblems": [
+      "Bypasses standard design bottlenecks",
+      "Provides accessible, styled frontend components in seconds",
+      "Eliminates boilerplate setup for UI sections"
+    ],
+    "systemRequirements": "Modern web browser, React workspace setup for best usage.",
+    "ogImage": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=800&q=80",
+    "createdAt": "2026-05-18T12:00:00Z",
+    "clicks": 42
+  },
+  {
+    "id": "2",
+    "name": "Cursor AI",
+    "url": "https://cursor.com",
+    "category": "Development & Coding",
+    "microSummary": "An AI-first code editor built on top of VS Code, engineered for collaborative development with state-of-the-art language models.",
+    "description": "Cursor is a powerful fork of VS Code that brings context-aware chat, inline edits, and automatic multi-file edits directly into your editor environment. It uses proprietary indexes to scan your entire workspace for hyper-precise answers.",
+    "features": [
+      "Full codebase indexing and contextual queries",
+      "Prefix-triggered inline edits (Cmd+K)",
+      "Multi-file prediction loops (Copilot++ equivalent)",
+      "Zero-setup import of all VS Code extensions"
+    ],
+    "solvedProblems": [
+      "Cuts cognitive load during complex refactorings",
+      "Provides rapid syntax and logic drafting",
+      "Locates deprecated code patterns across large projects instantly"
+    ],
+    "systemRequirements": "macOS, Windows, or Linux. 4GB RAM minimum standard.",
+    "ogImage": "https://images.unsplash.com/photo-1607799279861-4dd421887fb3?auto=format&fit=crop&w=800&q=80",
+    "createdAt": "2026-05-19T09:30:00Z",
+    "clicks": 105
+  },
+  {
+    "id": "3",
+    "name": "ElevenLabs",
+    "url": "https://elevenlabs.io",
+    "category": "Audio & Speech",
+    "microSummary": "The world's leading generative audio research platform, creating highly emotional, lifelike voice acting and speech synthesis.",
+    "description": "ElevenLabs delivers state-of-the-art text-to-speech, voice cloning, and sound effects generation using deep learning models that reproduce subtle respiratory inflections, high-fidelity tones, and nuanced human cadences across 29+ languages.",
+    "features": [
+      "Zero-shot voice cloning with 10-second clips",
+      "Highly customizable voice actors with fine-grained controls",
+      "Sound effects and foley synthesis",
+      "Multilingual emotional speech blending"
+    ],
+    "solvedProblems": [
+      "Replaces expensive studio voiceovers for videos",
+      "Provides instantaneous voice translations into global accents",
+      "Enables consistent voice narration for digital content creators"
+    ],
+    "systemRequirements": "API access over standard HTTP protocol, browser tool.",
+    "ogImage": "https://images.unsplash.com/photo-1516280440614-37939bbacd6a?auto=format&fit=crop&w=800&q=80",
+    "createdAt": "2026-05-19T11:45:00Z",
+    "clicks": 67
+  },
+  {
+    "id": "4",
+    "name": "Claude 3.5 Sonnet",
+    "url": "https://anthropic.com",
+    "category": "LLMs & Chatbots",
+    "microSummary": "Anthropic's flagship language model setting industry boundaries for coding logic, visual reasoning, and writing quality.",
+    "description": "Claude 3.5 Sonnet operates with a 200,000-token context window and sets new state-of-the-art benchmarks for complex coding tasks, reasoning, and visual chart evaluations. Coupled with Claude Artifacts, it opens real-time interactive playgrounds.",
+    "features": [
+      "Industry-leading logical reasoning and code synthesis",
+      "Excellent multi-turn conversational quality",
+      "High-accuracy visual parsing for schematics and charts",
+      "Safety-first design aligned with constitutional principles"
+    ],
+    "solvedProblems": [
+      "Solves multi-step conceptual software architectures",
+      "Summarizes heavy multi-hundred-page research documents in seconds",
+      "Translates complex charts into structured spreadsheets"
+    ],
+    "systemRequirements": "Web browser interface, developer API access.",
+    "ogImage": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=800&q=80",
+    "createdAt": "2026-05-20T08:00:00Z",
+    "clicks": 89
+  },
+  {
+    "id": "5",
+    "name": "NotebookLM",
+    "url": "https://notebooklm.google",
+    "category": "Productivity & Research",
+    "microSummary": "An AI-powered research assistant by Google that synthesizes customized learning materials and audio discussions from source files.",
+    "description": "NotebookLM redefines notetaking by grounding Gemini 1.5 Pro directly within your document sources. Simply upload newsletters, books, or PDFs, and the system acts as a hyper-informed expert, answering complex queries and generating fully acted sound discussions.",
+    "features": [
+      "Grounded source questions with verifiable citations",
+      "Two-host audio overview synthesis ('Deep Dive')",
+      "Custom study guides, FAQs, and briefings",
+      "Multi-source support including YouTube links and Google Docs"
+    ],
+    "solvedProblems": [
+      "Combats AI hallucination by sticking strictly to provided texts",
+      "Turns complex text notes into digestible educational podcasts on the fly",
+      "Helps researchers organize and cite vast document databases"
+    ],
+    "systemRequirements": "Standard web browser, Google Account access.",
+    "ogImage": "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?auto=format&fit=crop&w=800&q=80",
+    "createdAt": "2026-05-20T14:45:00Z",
+    "clicks": 142
+  }
+]

@@ -1,0 +1,6 @@
+{
+  "name": "Curated AI Tools Directory",
+  "description": "A refined hub for browsing and managing curated AI tools, featuring AI-assisted scraping and Telegram channel automatic distribution.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
