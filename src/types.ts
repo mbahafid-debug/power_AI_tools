@@ -11,6 +11,18 @@ export interface Tool {
   ogImage: string;
   createdAt: string;
   clicks: number;
+  // Advanced Copywriter fields
+  hook_intro?: string;
+  core_concept?: string;
+  workflow_steps?: string[];
+  comparative_analysis?: {
+    without_tool: string;
+    with_tool: string;
+  };
+  key_advantages?: string[];
+  technical_ecosystem?: string[];
+  call_to_action?: string;
+  poster_headline?: string;
 }
 
 export interface UserLifecycleState {

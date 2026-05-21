@@ -533,6 +533,7 @@ export default function App() {
               currentTools={tools}
               onRefreshTools={fetchTools}
               onAddToolLocally={handleAddToolLocally}
+              isArabic={isArabic}
             />
           </div>
         )}
